@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java development<br><br>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br>💬 Ask me about Java, Python,  PHP, MySQL, Mongodb.<br><br>📫 How to reach me shrinathghorpade07@gmail.com</p>
+<p align="left">📚 I'm currently learning Java development<br><br>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br>💬 Ask me about Java, Python, ript, PHP, MySQL, Mongodb.<br><br>📫 How to reach me shrinathghorpade07@gmail.com</p>
 
 ###
 
@@ -33,11 +33,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
