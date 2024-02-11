@@ -9,7 +9,7 @@
 ###
 
 <h6 align="left">📚 I'm currently learning Java development<br><br>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br>💬 Ask me about Java, Python, ript, PHP, MySQL, Mongodb.<br><br>📫 How to reach me shrinathghorpade07@gmail.com</h6>
-<br>
+
 
 <p align="left"></p>
 
