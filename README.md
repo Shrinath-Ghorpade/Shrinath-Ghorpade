@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left"><ul><li>📚 I'm currently learning Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, ript, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me shrinathghorpade07@gmail.com</li></ul></h4>
+<h4 align="left"><ul><li>📚 I'm currently learning Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, ript, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com">shrinathghorpade07@gmail.com</a></li></ul></h4>
 <br>
 <p align="left"></p>
 
