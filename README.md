@@ -25,7 +25,7 @@
 </div>
 <div align="left">
   <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="[https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200709161237/download3.pn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhow-to-center-an-image-horizontally-within-a-div-element-using-css%2F&psig=AOvVaw1XelV1bNPP9Ley2LTUSrxY&ust=1708697678969000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjuuKTwvYQDFQAAAAAdAAAAABAE)g" height="25" alt="GeeksforGeeks logo" />
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20211101104133/1-300x139.png" height="25" alt="GeeksforGeeks logo" />
   </a>
 </div>
 
