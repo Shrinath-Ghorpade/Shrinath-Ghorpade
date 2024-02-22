@@ -24,8 +24,8 @@
   </a>
 
 
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" height="25" width="100" alt="GeeksforGeeks logo" />
+ <a href="https://www.youtube.com/feed/you" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
 
