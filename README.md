@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<div align="left">
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200709161237/download3.png" height="25" alt="GeeksforGeeks logo" />
+  </a>
+</div>
+
 </br>
 
 
