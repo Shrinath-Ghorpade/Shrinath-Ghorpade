@@ -24,8 +24,8 @@
   </a>
 
 
- <a href="https://www.youtube.com/feed/you" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="25" alt="youtube logo"  />
+  <a href="https://www.youtube.com/feed/you" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 
