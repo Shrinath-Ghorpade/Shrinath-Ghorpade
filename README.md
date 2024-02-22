@@ -25,7 +25,7 @@
 
 
  <a href="https://www.youtube.com/feed/you" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="200" height="25" alt="youtube logo"  />
   </a>
 </div>
 
