@@ -25,7 +25,7 @@
 
 
   <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://www.geeksforgeeks.org/gfg-new-logo/" height="25" width="100" alt="GeeksforGeeks logo" />
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" height="25" width="100" alt="GeeksforGeeks logo" />
   </a>
 </div>
 
