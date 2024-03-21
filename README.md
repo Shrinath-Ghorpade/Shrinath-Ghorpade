@@ -12,7 +12,10 @@
 </div>
 
 
-<h4 align="left"><ul><li>📚 I'm currently learning Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com">shrinathghorpade07@gmail.com</a></li></ul></h4>
+<h4 align="left"><ul><li>📚 I'm currently learning Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com">shrinathghorpade07@gmail.com</a></li></ul>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link](https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link)
+</h4>
 <br>
 <p align="left"></p>
 
