@@ -13,7 +13,7 @@
 
 
 <h4 align="left"><ul><li>📚 I'm currently learning Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development Projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com">shrinathghorpade07@gmail.com</a></li></ul>
-<ul><li></li></ul><a href="https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link">
+<ul><li><a href="https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link">
 📄 Know about my experiences</a>
 </li></ul></h4>
 <br>
