@@ -6,11 +6,7 @@
   <img height="200" src="https://user-images.githubusercontent.com/99407071/265520684-79dbe8e4-155d-410d-9bcd-020545a559b8.gif"  />
 </div>
 
-###
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrinath-ghorpade.shrinath-ghorpade&left_color=darkslategray&right_color=darkred&left_text=Profile%20views"  />
-</div>
-
+###<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinath-ghorpade&label=Profile%20views&color=0e75b6&style=flat" alt="shrinath-ghorpade" /> </p>
 
 <h4 align="left"><ul><li>📚 I'm currently working on  Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com"><u>shrinathghorpade07@gmail.com</u></a></li></ul>
 <ul><li><a href="https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link">
