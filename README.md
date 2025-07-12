@@ -4,14 +4,20 @@
   <img height="200" src="https://camo.githubusercontent.com/0ceaf4c8b06bfdc34e567e297a9e4f1adb36b9e79cb7f6b9c6d45b30e4098782/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67"  />
 </div>
 
-<h1 align="center">Hi! 👋 I'm Shrinath</h1>
+<h1 align="left">Hi! 👋 I'm Shrinath</h1>
 ###
 
 
-<h4 align="left"><ul><li>📚 I'm currently working on  Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com"><u>shrinathghorpade07@gmail.com</u></a></li></ul>
-<ul><li><a href="https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link">
-<u>📄 Know about my experiences</u></a>
-</li></ul></h4>
+<h4 align="left">
+<ul>
+  <li>📌 Current Status: <b>Learning Something Amazing and Exploring Hackathons</b></li><br>
+  <li>🌱 I’m currently learning and improving my skills in <b>Data Structures</b>, <b>Algorithms</b>, and <b>Web Development</b></li><br>
+   <li>👯 I’m looking to collaborate on any <b>Data Science Project</b> or any simple <b>Web Dev</b> or <b>Python Development</b> Project or <b>ML, Computer Vision</b> ..</li><br>
+  <li>🤔 I’m always ready for any help if you want</li><br>
+  <li>💬 Ask me about <b>Web Dev</b>, <b>Python Development</b>, <b>Computer Vision</b>, <b>Data Science</b>, and <b>Machine Learning</b></li><br>
+  <li><b>Note:</b> I am not a Master of <b>Data Science</b> and <b>ML</b>... But will be glad to learn something new.</li>
+</ul>
+</h4>
 <br>
 <p align="left"></p>
 
