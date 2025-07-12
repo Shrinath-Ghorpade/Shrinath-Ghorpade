@@ -6,12 +6,13 @@
 
 <ul>
   <li>📌 Current Status: <b>Learning Something Amazing and Exploring Hackathons</b></li>
-  <li>🌱 I’m currently learning and trying to master <b>Data Structures</b> and <b>Algorithms</b></li>
-  <li>👯 I’m looking to collaborate on any <b>Data Science Project</b>, or simple <b>Web Dev</b>, <b>Python Development</b>, <b>ML</b>, or <b>Computer Vision</b> project</li>
+  <li>🌱 I’m currently learning and trying to master <code>Data Structures</code> and <code>Algorithms</code></li>
+  <li>👯 I’m looking to collaborate on any <code>Data Science</code> Project or simple <code>Web Dev</code>, <code>Python Development</code>, <code>ML</code>, or <code>Computer Vision</code> project</li>
   <li>🤔 I’m always ready for any help if you want</li>
-  <li>💬 Ask me about <b>Web Dev</b>, <b>Python Development</b>, <b>Computer Vision</b>, <b>Data Science</b>, and <b>Machine Learning</b></li>
-  <li><b>Note:</b> I am not a Master of <b>Data Science</b> and <b>ML</b>... But will be glad to learn something new.</li>
+  <li>💬 Ask me about <code>Web Dev</code>, <code>Python Development</code>, <code>Computer Vision</code>, <code>Data Science</code>, and <code>Machine Learning</code></li>
+  <li><b>Note:</b> I am not a Master of <code>Data Science</code> and <code>ML</code>... But will be glad to learn something new.</li>
 </ul>
+
 
 
 ---
