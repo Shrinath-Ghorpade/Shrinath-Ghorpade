@@ -7,7 +7,7 @@
 </div>
 
 ###
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shrinath-ghorpade&label=Profile%20views&color=0e75b6&style=flat" alt="shrinath-ghorpade](https://camo.githubusercontent.com/0ceaf4c8b06bfdc34e567e297a9e4f1adb36b9e79cb7f6b9c6d45b30e4098782/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)" /> </p>
+
 
 <h4 align="left"><ul><li>📚 I'm currently working on  Java development<br><br></li><li>👯 I’m looking to collaborate on any Java development or Python development projects which will help me to grow my skills.<br><br></li><li>💬 Ask me about Java, Python, PHP, MySQL, Mongodb.<br><br></li><li>📫 How to reach me <a   href="mailto:example@example.com"><u>shrinathghorpade07@gmail.com</u></a></li></ul>
 <ul><li><a href="https://drive.google.com/file/d/1suV_rhOc-y4NsN5_mmSJBqzzJE7TMOPM/view?usp=drive_link">
